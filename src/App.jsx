@@ -202,37 +202,37 @@ class Drums extends React.Component {
   }
 }
 
-const drumSet1 = (
+const drumSet1 =
+  //prettier-ignore
   <section className="drums" id="drumsSection">
     <div id="Heater-1" className="drum-pad drum-hover">
-      <audio src="/src/assets/Heater-1.mp3" className="clip" id="Q"></audio>Q
+      <audio src="https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-1.mp3" className="clip" id="Q"></audio>Q
     </div>
     <div id="Heater-2" className="drum-pad drum-hover">
-      <audio src="/src/assets/Heater-2.mp3" className="clip" id="W"></audio>W
+      <audio src="https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-2.mp3" className="clip" id="W"></audio>W
     </div>
     <div id="Heater-3" className="drum-pad drum-hover">
-      <audio src="/src/assets/Heater-3.mp3" className="clip" id="E"></audio>E
+      <audio src="https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-3.mp3" className="clip" id="E"></audio>E
     </div>
     <div id="Heater-4" className="drum-pad drum-hover">
-      <audio src="/src/assets/Heater-4.mp3" className="clip" id="A"></audio>A
+      <audio src="https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-4_1.mp3" className="clip" id="A"></audio>A
     </div>
     <div id="Heater-6" className="drum-pad drum-hover">
-      <audio src="/src/assets/Heater-6.mp3" className="clip" id="S"></audio>S
+      <audio src="https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-6.mp3" className="clip" id="S"></audio>S
     </div>
     <div id="Dsc_Oh" className="drum-pad drum-hover">
-      <audio src="/src/assets/Dsc_Oh.mp3" className="clip" id="D"></audio>D
+      <audio src="https://cdn.freecodecamp.org/testable-projects-fcc/audio/Dsc_Oh.mp3" className="clip" id="D"></audio>D
     </div>
     <div id="Kick_n_Hat" className="drum-pad drum-hover">
-      <audio src="/src/assets/Kick_n_Hat.mp3" className="clip" id="Z"></audio>Z
+      <audio src="https://cdn.freecodecamp.org/testable-projects-fcc/audio/Kick_n_Hat.mp3" className="clip" id="Z"></audio>Z
     </div>
     <div id="RP4_KICK_1" className="drum-pad drum-hover">
-      <audio src="/src/assets/RP4_KICK_1.mp3" className="clip" id="X"></audio>X
+      <audio src="https://cdn.freecodecamp.org/testable-projects-fcc/audio/RP4_KICK_1.mp3" className="clip" id="X"></audio>X
     </div>
     <div id="Cev_H2" className="drum-pad drum-hover">
-      <audio src="/src/assets/Cev_H2.mp3" className="clip" id="C"></audio>C
+      <audio src="https://cdn.freecodecamp.org/testable-projects-fcc/audio/Cev_H2.mp3" className="clip" id="C"></audio>C
     </div>
-  </section>
-);
+  </section>;
 
 const drumSet2 =
   //prettier-ignore
